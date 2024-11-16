@@ -1,4 +1,5 @@
 ## Hi there 👋
+A student of Foshan Nanhai district guicheng high school
 
 <!--
 **Small-cart/small-cart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
